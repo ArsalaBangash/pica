@@ -69,7 +69,7 @@ footer{
 	transition:all 0.3s ease;
 }
 
-.topnav .nav-link:hover {
+.topnav li:hover .nav-link {
 	color:#fff;
 }
 
